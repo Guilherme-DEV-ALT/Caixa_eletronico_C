@@ -1,0 +1,8 @@
+# Arquivos gerados pelo compilador
+*.exe
+*.o
+*.obj
+
+# Arquivos temporarios
+*.tmp
+*.log
