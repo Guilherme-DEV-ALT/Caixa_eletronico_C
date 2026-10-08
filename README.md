@@ -2,7 +2,7 @@
 
 Projeto introdutorio em C, seguindo o roteiro escolhido da atividade.
 Saldo inicial: R$600,00. O programa permite corrigir entradas invalidas e
-encerra depois de realizar um unico saque valido.
+encerra depois de realizar um unico saque valido
 
 ## Arquivos
 
