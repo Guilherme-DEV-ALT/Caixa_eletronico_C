@@ -52,8 +52,8 @@ O Portugol ainda precisa ser executado no WebStudio para validacao nesse ambient
 | Entrada | Resultado |
 | --- | --- |
 | 50 | 1 nota de R$50,00 |
-| 95 | 1 nota de R$50,00, 2 de R$20,00 e 1 de R$05,00 |
-| 123 | 1 nota de R$100,00, 1 de R$20,00, 1 de R$02,00 e 1 moeda de R$01,00 |
+| 95 | 1 nota de R$50,00, 2 de R$20,00 e 1 de R$5,00 |
+| 123 | 1 nota de R$100,00, 1 de R$20,00, 1 de R$2,00 e 1 moeda de R$1,00 |
 | 1005, depois 50 | Saldo insuficiente, nova leitura e saque de R$50,00 |
 | abc, 12,50, 0, -2, depois 123 | Erros sucessivos, nova leitura e saque de R$123,00 |
 

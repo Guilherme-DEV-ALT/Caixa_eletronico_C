@@ -74,13 +74,13 @@
             escreva(notas10, " nota(s) de R$10,00\n")
         }
         se (notas5 > 0) {
-            escreva(notas5, " nota(s) de R$05,00\n")
+            escreva(notas5, " nota(s) de R$5,00\n")
         }
         se (notas2 > 0) {
-            escreva(notas2, " nota(s) de R$02,00\n")
+            escreva(notas2, " nota(s) de R$2,00\n")
         }
         se (moedas1 > 0) {
-            escreva(moedas1, " moeda(s) de R$01,00\n")
+            escreva(moedas1, " moeda(s) de R$1,00\n")
         }
     }
 }

@@ -75,15 +75,14 @@ int main(void)
         printf("%d nota(s) de R$10,00\n", notas10);
     }
     if (notas5 > 0) {
-        printf("%d nota(s) de R$05,00\n", notas5);
+        printf("%d nota(s) de R$5,00\n", notas5);
     }
     if (notas2 > 0) {
-        printf("%d nota(s) de R$02,00\n", notas2);
+        printf("%d nota(s) de R$2,00\n", notas2);
     }
     if (moedas1 > 0) {
-        printf("%d moeda(s) de R$01,00\n", moedas1);
+        printf("%d moeda(s) de R$1,00\n", moedas1);
     }
 
     return 0;
 }
-
