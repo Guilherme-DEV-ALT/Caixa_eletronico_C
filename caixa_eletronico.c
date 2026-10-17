@@ -10,7 +10,7 @@ int main(void)
 
     // Repete a leitura ate receber um saque valido.
     while (saqueValido == 0) {
-        printf("Digite o valor do saque em reais inteiros: ");
+        printf("Digite o valor do saque em reais: ");
         // Limita a leitura para evitar numeros fora do alcance de int.
         leitura = scanf("%9d", &valorSaque);
         if (leitura == EOF) {
