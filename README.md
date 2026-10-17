@@ -66,6 +66,3 @@ O roteiro exige codigo C, arquivo Portugol e relatorio PDF com evidencias.
 O relatorio PDF ainda nao esta nesta pasta. Para entregar, utilize os nomes
 `GRUPO_NN_codigo.c`, `GRUPO_NN_portugol.por` e `GRUPO_NN_testes.pdf`,
 substituindo NN pelo numero do grupo.
-
-Se o Windows informar um bloqueio de Controle de Aplicativo, solicite a
-autorizacao do executavel ao administrador do computador.
