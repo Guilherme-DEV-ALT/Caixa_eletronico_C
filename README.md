@@ -8,7 +8,7 @@ Cada saque aprovado desconta do saldo disponivel.
 ## Arquivos
 
 - `caixa_eletronico.c`: codigo principal, usando apenas `stdio.h`.
-- `caixa_eletronico.portugol`: algoritmo para o Portugol WebStudio.
+- `caixa_eletronico.portugol.txt`: algoritmo para o Portugol WebStudio.
 - `caixa_eletronico.exe`: gerado localmente pela compilacao e ignorado pelo Git.
 
 ## Compilar e executar
